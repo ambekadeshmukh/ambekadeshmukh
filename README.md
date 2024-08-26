@@ -1,4 +1,33 @@
-## Hi there 👋
+# Hello, I'm Ambeka! 👋
+
+## About Me
+I'm a DevOps Engineer with a passion for cloud infrastructure, automation, and continuous improvement. My journey has taken me from hospitality and marketing to the exciting world of tech, where I leverage my diverse background to bring a unique perspective to DevOps challenges.
+
+## 🚀 Skills
+- **Cloud & Infrastructure:** AWS, Azure, GCP, Terraform
+- **DevOps & Automation:** Docker, Kubernetes, Jenkins, ArgoCD, Ansible
+- **Data Management:** Snowflake, MySQL, DynamoDB
+- **Security:** Wazuh, IAM, Sealed Secrets
+- **Monitoring:** Prometheus, Grafana, ELK Stack
+- **Programming:** Python, Shell Scripting
+
+## 🛠️ Current Focus
+- Optimizing cloud infrastructure and reducing operational costs
+- Enhancing security postures in cloud-native environments
+- Implementing efficient CI/CD pipelines
+- Automating repetitive tasks to improve team productivity
+
+## 🎵 When I'm Not Working
+I'm fueled by:
+- Music 🎵
+- Coffee ☕
+- And a bit of chaos 🔥
+
+## 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/ambeka-deshmukh/)
+- [Personal Website](http://www.iambeka.com)
+- [Email](mailto:hello@iambeka.com)
+
 
 <!--
 **ambekadeshmukh/ambekadeshmukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
