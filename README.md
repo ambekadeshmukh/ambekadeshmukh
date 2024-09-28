@@ -7,8 +7,8 @@ I'm a DevOps Engineer with a passion for cloud infrastructure, automation, and c
 - **Cloud & Infrastructure:** AWS, Azure, GCP, Terraform
 - **DevOps & Automation:** Docker, Kubernetes, Jenkins, ArgoCD, Ansible
 - **Data Management:** Snowflake, MySQL, DynamoDB
-- **Security:** Wazuh, IAM, Sealed Secrets
-- **Monitoring:** Prometheus, Grafana, ELK Stack
+- **Security:** Wazuh, IAM, Sealed Secrets,Teleport
+- **Monitoring:** Prometheus, Grafana, ELK Stack,Sigma
 - **Programming:** Python, Shell Scripting
 
 ## 🛠️ Current Focus
@@ -25,8 +25,8 @@ I'm fueled by:
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/ambeka-deshmukh/)
-- [Personal Website](http://www.iambeka.com)
-- [Email](mailto:hello@iambeka.com)
+- [Personal Website](https://iambeka.com)
+
 
 
 <!--
