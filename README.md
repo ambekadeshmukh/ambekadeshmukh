@@ -83,7 +83,12 @@ I'm an Associate DevOps Engineer with a passion for architecting resilient cloud
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ambekadeshmukh&show_icons=true&theme=radical" alt="GitHub Stats">
+  <a href="https://github.com/ambekadeshmukh">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ambekadeshmukh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/ambekadeshmukh">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambekadeshmukh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+  </a>
 </div>
 
 ## 🤝 Let's Connect!
