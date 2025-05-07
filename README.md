@@ -2,12 +2,11 @@
 
 
 ## 🚀 About Me
-I'm an Associate DevOps Engineer with a passion for architecting resilient cloud solutions. My unique journey from hospitality and marketing to tech has equipped me with a diverse skill set that combines technical expertise with strong business acumen. I believe in the power of automation, continuous improvement, and creating scalable solutions that drive business growth.
+I'm a DevOps Engineer with a passion for architecting resilient cloud solutions. My unique journey from hospitality and marketing to tech has equipped me with a diverse skill set that combines technical expertise with strong business acumen. I believe in the power of automation, continuous improvement, and creating scalable solutions that drive business growth.
 
 ## 🛠️ Technical Forte
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -21,7 +20,6 @@ I'm an Associate DevOps Engineer with a passion for architecting resilient cloud
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitOps](https://img.shields.io/badge/GitOps-FF4088?style=flat&logo=git&logoColor=white)
 ![Harbor](https://img.shields.io/badge/Harbor-60B932?style=flat&logo=harbor&logoColor=white)
-![SaltStack](https://img.shields.io/badge/SaltStack-00EACE?style=flat&logo=saltstack&logoColor=black)
 
 ### Data Management & Analytics
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
@@ -44,7 +42,6 @@ I'm an Associate DevOps Engineer with a passion for architecting resilient cloud
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK-005571?style=flat&logo=elastic&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
 
 ### Web & API Tools
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
