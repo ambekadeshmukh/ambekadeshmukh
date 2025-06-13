@@ -90,7 +90,7 @@ An intelligent infrastructure-as-code generator that transforms natural language
 - **Features:** Multi-cloud support, cost estimation, infrastructure visualization
 - **Demo:** [View Demo](https://youtu.be/kuNb2WOlWHo)
 
-### [SentinelOps](https://github.com/ambekadeshmukh/sentinelops)
+### [Meerkatics](https://github.com/ambekadeshmukh/meerkatics)
 A full observability platform for AI/LLM systems - track inference times, memory usage, token costs, and more.
 
 - **Technologies:** Python, Prometheus, Grafana, Docker
